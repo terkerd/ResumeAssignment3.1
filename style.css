@@ -1,0 +1,147 @@
+img
+{
+
+    width: 300px;
+    
+    
+
+}
+
+body
+{
+
+    background-color: rgb(0, 0, 0);
+    padding: 50px;
+    
+
+}
+
+div
+{
+
+    background: red;
+
+}
+
+
+h1
+{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 4em;
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+    
+    
+    
+
+}
+
+h2
+{
+
+text-align: center;
+font-weight: bold;
+font-style: oblique;
+
+}
+
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+    
+}
+
+p
+{
+
+    font-size: 18px;
+    margin: 0%;
+    padding: 0%;
+    font-weight: 500;
+    line-height: 30px;
+
+}
+
+.header
+{
+
+    background-color: cornflowerblue;
+    border: 5px solid ghostwhite;
+    padding: 20px;
+    
+
+
+}
+
+.project
+{
+
+    background-color: cornflowerblue;
+    border: 5px solid ghostwhite;
+    padding: 20px;
+}
+
+.contact
+{
+
+    background-color: cornflowerblue;
+    border: 5px solid ghostwhite;
+    padding: 20px;
+}
+
+.education
+{
+
+    background-color: cornflowerblue;
+    border: 5px solid ghostwhite;
+    padding: 20px;
+
+}
+
+a:visited
+{
+
+    color: rgb(0, 0, 0);
+
+}
+
+a:link
+{
+
+    color: rgb(255, 255, 255);
+
+}
+
+a:hover
+{
+    color: rgb(255, 255, 255);
+}
+
+.first
+{
+
+    margin-bottom: 0%;
+
+}
+
+.second
+{
+
+    margin-top: 0%;
+
+}
+
+.p1
+{
+
+    width: 1000px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+
+}
+
